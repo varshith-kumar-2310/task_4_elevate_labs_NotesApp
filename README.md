@@ -29,7 +29,6 @@ This app allows you to **create, view, edit, and delete** notes stored as files 
 ## ⚙️ How to Run
 
 ### 1. **Clone the repository**
-```bash
 git clone https://github.com/your-username/notes-app.git
 cd notes-app
 
