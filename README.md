@@ -29,7 +29,7 @@ This app allows you to **create, view, edit, and delete** notes stored as files 
 ## ⚙️ How to Run
 
 ### 1. **Clone the repository**
-git clone https://github.com/varshith-kumar-2310/notes-app.git
+git clone https://github.com/varshith-kumar-2310/task_4_elevate_labs_NotesApp.git
 cd notes-app
 
 ### 2. **Compile the Java file**
